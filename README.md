@@ -14,3 +14,9 @@ ch11:使用Apriori算法进行关联分析
 ch12:使用FP-growth算法来高效发现频繁项集
 ch13:利用PCA简化数据
 ch14：利用SVD简化数据
+ch15:大数据与MapReduce
+
+
+统一声明：主要参考书中所提供源码
+@author: Peter Harrington
+
